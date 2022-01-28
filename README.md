@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A person who throws things together, and shares for free.</h3>
 
-<p align="left"> <a href="https://twitter.com/danielytuk" target="blank"><img src="https://img.shields.io/twitter/follow/danielytuk?logo=twitter&style=for-the-badge" alt="danielytuk" /></a> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pdtwi8vbk6it5t8keptjf5slt&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) </p>
+<p align="left"> <a href="https://twitter.com/danielytuk" target="blank"><img src="https://img.shields.io/twitter/follow/danielytuk?logo=twitter&style=for-the-badge" alt="danielytuk" /></a> </p>
+
+**Currently Listening To:**<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pdtwi8vbk6it5t8keptjf5slt&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pdtwi8vbk6it5t8keptjf5slt&redirect=true)
 
 - 🔭 I’m currently working on [YouTube Tutorials](https://youtube.com/danielytuk)
 

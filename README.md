@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/danielytuk" target="blank"><img src="https://img.shields.io/twitter/follow/danielytuk?logo=twitter&style=for-the-badge" alt="danielytuk" /></a> </p>
 
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=pdtwi8vbk6it5t8keptjf5slt&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)]]
+
 - 🔭 I’m currently working on [YouTube Tutorials](https://youtube.com/danielytuk)
 
 - 📫 How to reach me **daniel@dytuk.me | Discord (below)**
